@@ -1,0 +1,1 @@
+The project aims at developing a flexible display solution for room bookings and media presentation based on the RaspberryPI platform.
